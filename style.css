@@ -1,0 +1,125 @@
+body {
+    background-color: #f8f9fa;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    width: 200vh;
+    height: 60vh;
+}
+
+.documents {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 70px;
+    border-color: black;
+}
+
+.card1 {
+    background-color: rgb(255, 114, 138);
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px blueviolet;
+    text-align: center;
+    width: 300px;
+    margin-left: 50px;
+
+}
+
+.profilepicture1 {
+    height: 110px;
+    width: 110px;
+    margin-bottom: 15px;
+    border-radius: 50%;
+    border: 5px solid lavenderblush;
+    /* Reduced the border thickness */
+}
+
+.head1 {
+    color: pink;
+    outline: 1500px violet;
+    outline-offset: 500px;
+    text-shadow: 50px black;
+    font-family: sans-serif;
+    font-size: 20px;
+    position: relative;
+    top: -25px;
+}
+
+.subtitle1 {
+    font-size: 15px;
+    position: relative;
+    top: -35px;
+}
+
+
+.card2 {
+    background-color: rgb(138, 197, 255); 
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgb(58, 95, 205); 
+    text-align: center;
+    width: 300px;
+    margin-left: 50px;
+}
+
+.profilepicture2 {
+    height: 110px;
+    width: 110px;
+    margin-bottom: 15px;
+    border-radius: 50%;
+    border: 5px solid rgb(217, 228, 255); /
+}
+
+.head2 {
+    color: rgb(40, 75, 150);
+    outline: 1500px rgb(58, 95, 205);
+    outline-offset: 500px;
+    text-shadow: 50px rgb(20, 50, 100);
+    font-family: sans-serif;
+    font-size: 20px;
+    position: relative;
+    top: -25px;
+}
+
+.subtitle2 {
+    font-size: 15px;
+    position: relative;
+    top: -35px;
+}
+
+
+.card3 {
+    background-color: rgb(138, 255, 138); 
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgb(58, 180, 58);
+    text-align: center;
+    width: 300px;
+    margin-left: 50px;
+}
+
+.profilepicture3 {
+    height: 110px;
+    width: 110px;
+    margin-bottom: 15px;
+    border-radius: 50%;
+    border: 5px solid rgb(200, 255, 200); 
+}
+
+.head3 {
+    color: rgb(34, 139, 34); 
+    outline: 1500px rgb(58, 180, 58);
+    outline-offset: 500px;
+    text-shadow: 50px rgb(20, 90, 20);
+    font-family: sans-serif;
+    font-size: 20px;
+    position: relative;
+    top: -25px;
+}
+
+.subtitle3 {
+    font-size: 15px;
+    position: relative;
+    top: -35px;
+}
+
